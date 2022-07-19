@@ -1,0 +1,8 @@
+C:\Users\Ivan caesar\source\repos\TugasMuhammad Zuama\TugasMuhammad Zuama\bin\Debug\TugasMuhammad Zuama.exe.config
+C:\Users\Ivan caesar\source\repos\TugasMuhammad Zuama\TugasMuhammad Zuama\bin\Debug\TugasMuhammad Zuama.exe
+C:\Users\Ivan caesar\source\repos\TugasMuhammad Zuama\TugasMuhammad Zuama\bin\Debug\TugasMuhammad Zuama.pdb
+C:\Users\Ivan caesar\source\repos\TugasMuhammad Zuama\TugasMuhammad Zuama\obj\Debug\TugasMuhammad Zuama.csproj.AssemblyReference.cache
+C:\Users\Ivan caesar\source\repos\TugasMuhammad Zuama\TugasMuhammad Zuama\obj\Debug\TugasMuhammad Zuama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan caesar\source\repos\TugasMuhammad Zuama\TugasMuhammad Zuama\obj\Debug\TugasMuhammad Zuama.csproj.CoreCompileInputs.cache
+C:\Users\Ivan caesar\source\repos\TugasMuhammad Zuama\TugasMuhammad Zuama\obj\Debug\TugasMuhammad Zuama.exe
+C:\Users\Ivan caesar\source\repos\TugasMuhammad Zuama\TugasMuhammad Zuama\obj\Debug\TugasMuhammad Zuama.pdb
